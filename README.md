@@ -20,10 +20,10 @@ It’s permissionless, verifiable, and secure — powered by the magic of TEEs a
 ## 🔒 How It Works
 
 1. **📤 Bank Intent Submission**  
-   Any bank creates a **signed transaction intent**, encrypts it, and uploads it to a smart contract on Ethereum using **any wallet**. No KYC, no whitelists — Matcha is permissionless by design.
+   Any bank creates a **signed transaction intent**, encrypts it, and uploads it to a smart contract on Ethereum using **any wallet**. No whitelists — Matcha is permissionless by design.
 
 2. **🛡️ TEE Event Listener**  
-   The TEE continuously monitors blockchain events. When a new transaction intent is posted, it pulls the data directly from the smart contract storage.
+   The TEE continuously monitors blockchain events. When a new transaction intent is posted, it pulls the data directly from the smart contract storage (encrypted with TEE public's key).
 
 3. **✅ Enclave Verification & Execution**  
    Inside the secure enclave, Matcha verifies the intent:
@@ -53,7 +53,7 @@ It’s permissionless, verifiable, and secure — powered by the magic of TEEs a
 - `scripts/` – Transaction intent creation, signing, and publishing helpers  
 - `frontend/` – (Optional) Demo UI for interacting with Matcha  
 - `docs/` – Presentation, Video, additional documentation, architecture, and diagrams  
-- `logo/` – Every version of this beautiful designn  
+- `logo/` – Every version of this beautiful design.  
 
 ---
 
@@ -84,5 +84,5 @@ Contributions welcome! Open an issue, submit a PR, or brew a fresh idea.
 ---
 
 <p align="center">
-  ☕️ Built with privacy, precision, and a little Matcha.
+  ☕️ Built with privacy, precision, and a little Matcha by <a href="https://x.com/0xAnotherdev" target="_blank">AnotherDev</a> & <a href="https://x.com/ariutokintumi" target="_blank">ariutokintumi</a>
 </p>
