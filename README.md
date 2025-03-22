@@ -2,8 +2,8 @@
   <img src="https://github.com/Another-DevX/ETH-Trifecta/blob/main/logo/matcha.jpg?raw=true" width="300" alt="Matcha logo" />
 </p>
 
-<h1 align="center">Matcha ☕</h1>
-<h3 align="center"><i>It's a TEE for bankers! (®)</i></h3>
+<h1 align="center">Matcha</h1>
+<h3 align="center"><i>It's a TEE for bankers!®</i></h3>
 
 ---
 
