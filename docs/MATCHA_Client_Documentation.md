@@ -8,7 +8,7 @@ Welcome to the Matcha client documentation. This guide explains how to set up an
 ## Setup and Installation
 
 
-** Clone the Repository:** 
+**Clone the Repository:** 
 
 
 ``bash
@@ -25,8 +25,6 @@ chmod +x machta_client.py
 ```
 
 *** Prepare your Environment: ** Ensure you have your Ethereum provider URL, the TEE bucl key, and the smart Contract address handy and the other security as preriors.
-
-[---
 
 
 ## First-Time Execution
