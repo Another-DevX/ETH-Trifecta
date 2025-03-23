@@ -51,7 +51,6 @@ It’s permissionless, verifiable, and secure — powered by the magic of TEEs a
 - `contracts/` – Solidity smart contracts for intent storage and Merkle root updates  
 - `tee/` – Enclave code (Intel SGX or compatible runtime)  
 - `scripts/` – Transaction intent creation, signing, and publishing helpers  
-- `frontend/` – (Optional) Demo UI for interacting with Matcha  
 - `docs/` – Presentation, Video, additional documentation, architecture, and diagrams  
 - `logo/` – Every version of this beautiful design.  
 
@@ -84,5 +83,5 @@ Contributions welcome! Open an issue, submit a PR, or brew a fresh idea.
 ---
 
 <p align="center">
-  ☕️ Built with privacy, precision, and a little Matcha by <a href="https://x.com/0xAnotherdev" target="_blank">AnotherDev</a> & <a href="https://x.com/ariutokintumi" target="_blank">ariutokintumi</a>
+  ☕️ Built with privacy, precision, and a little Matcha by <a href="https://x.com/ariutokintumi" target="_blank">ariutokintumi</a>
 </p>
